@@ -9,7 +9,7 @@ $(function () {
       zoom: 16,
       panControl: false,
       mapTypeId: google.maps.MapTypeId.ROADMAP,
-      disableDefaultUI: true,//set to true to disable all map controls,
+      disableDefaultUI: false,//set to true to disable all map controls,
       scrollwheel: false//set to true to enable mouse scrolling while inside the map area
     };
     
