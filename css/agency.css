@@ -3,10 +3,31 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+
+
+
+
 body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+.intro-header {
+	color: #f8f8f8;
+	text-align: center;
+}
+
+.container{
+margin-top:150px;
+background-color:#00bfff;
+width:100%;
+position:absolute;
+height:220px;
+}
+.custom-tab-content{
+color:#fff;
+font-family: 'Open Sans', sans-serif;
+}
+
 .text-muted {
   color: #777777;
 }
